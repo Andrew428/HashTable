@@ -1,4 +1,4 @@
-/* Doubly Linked List */
+/* Hash tables */
 
 export default class HashTable {
   constructor (storage, storageLimit) {

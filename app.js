@@ -1,4 +1,4 @@
-/* LinkedList */
+/* HashTable */
 import  HashTable from './util/HashTable.js';
 
 window.onload = () => {
